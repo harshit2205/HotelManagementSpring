@@ -1,0 +1,4 @@
+2018-10-19 11:09:52,387 - com.cg.mainclient.controller.MainController - WARN - This is a warn message.
+2018-10-19 11:09:52,387 - com.cg.mainclient.controller.MainController - FATAL - This is a fatal message.
+2018-10-19 11:10:11,023 - com.cg.mainclient.controller.MainController - WARN - This is a warn message.
+2018-10-19 11:10:11,023 - com.cg.mainclient.controller.MainController - FATAL - This is a fatal message.
