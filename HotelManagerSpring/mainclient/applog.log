@@ -1,0 +1,28 @@
+2018-10-19 11:09:52,387 - com.cg.mainclient.controller.MainController - WARN - This is a warn message.
+2018-10-19 11:09:52,387 - com.cg.mainclient.controller.MainController - FATAL - This is a fatal message.
+2018-10-19 11:10:11,023 - com.cg.mainclient.controller.MainController - WARN - This is a warn message.
+2018-10-19 11:10:11,023 - com.cg.mainclient.controller.MainController - FATAL - This is a fatal message.
+2018-10-19 14:33:08,164 - com.cg.mainclient.controller.MainController - WARN - This is a warn message.
+2018-10-19 14:33:08,164 - com.cg.mainclient.controller.MainController - FATAL - This is a fatal message.
+2018-10-19 14:40:35,984 - com.cg.mainclient.controller.MainController - INFO - hotel fetched with id: 1132
+2018-10-19 14:41:10,118 - com.cg.mainclient.controller.MainController - ERROR - Room not found exception thrown
+2018-10-19 14:41:15,464 - com.cg.mainclient.controller.MainController - INFO - Room fetched with id: 1159
+2018-10-19 14:47:03,301 - com.cg.mainclient.controller.MainController - INFO - hotel inserted with Id: 5555
+2018-10-19 14:50:29,435 - com.cg.mainclient.controller.MainController - ERROR - failed to book room.
+2018-10-19 14:50:50,671 - com.cg.mainclient.controller.MainController - INFO - room booked with Id: 1674
+2018-10-19 14:52:42,873 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
+2018-10-19 14:52:58,655 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
+2018-10-19 14:53:13,527 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
+2018-10-19 14:53:45,917 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
+2018-10-19 14:54:04,314 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
+2018-10-19 14:54:55,891 - com.cg.mainclient.controller.MainController - INFO - hotel inserted with Id: 5555
+2018-10-19 14:59:16,103 - com.cg.mainclient.controller.MainController - WARN - This is a warn message.
+2018-10-19 14:59:16,103 - com.cg.mainclient.controller.MainController - FATAL - This is a fatal message.
+2018-10-19 14:59:29,521 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
+2018-10-19 15:00:45,900 - com.cg.mainclient.controller.MainController - INFO - room booked with Id: 1192
+2018-10-19 15:08:40,641 - com.cg.mainclient.controller.MainController - INFO - room booked with Id: 1192
+2018-10-19 15:08:51,221 - com.cg.mainclient.controller.MainController - INFO - room booked with Id: 1192
+2018-10-19 15:31:55,950 - com.cg.mainclient.controller.MainController - INFO - room booked with Id: 1194
+2018-10-19 15:37:39,442 - com.cg.mainclient.controller.MainController - INFO - room booked with Id: 1195
+2018-10-19 15:39:01,672 - com.cg.mainclient.controller.MainController - INFO - hotel inserted with Id: 5556
+2018-10-19 15:40:20,490 - com.cg.mainclient.controller.MainController - INFO - booking details fetched with Id: 1674
